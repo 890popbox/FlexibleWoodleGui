@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cb3dd49-cc07-4b5f-a901-464a6976e1fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="274hORV7tDmyRAHUPATK69LeXWY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MoonSimpleGui" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FlexibleWoodleGui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\chris\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cb3dd49-cc07-4b5f-a901-464a6976e1fc" name="Default Changelist" comment="" />
+      <created>1648585232223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648585232223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648589470296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="147" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648589470296" />
+    <state x="543" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648601604046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1648601604046" />
+    <state x="473" y="339" key="FileChooserDialogImpl" timestamp="1648601574994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="339" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648601574994" />
+    <state width="1297" height="199" key="GridCell.Tab.0.bottom" timestamp="1648601234094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648601234094" />
+    <state width="1297" height="199" key="GridCell.Tab.0.center" timestamp="1648601234094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="199" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648601234094" />
+    <state width="1297" height="199" key="GridCell.Tab.0.left" timestamp="1648601234094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="199" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648601234094" />
+    <state width="1297" height="199" key="GridCell.Tab.0.right" timestamp="1648601234094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="199" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648601234094" />
+    <state width="1297" height="251" key="GridCell.Tab.1.bottom" timestamp="1648601125469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648601125469" />
+    <state width="1297" height="251" key="GridCell.Tab.1.center" timestamp="1648601125469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="251" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648601125469" />
+    <state width="1297" height="251" key="GridCell.Tab.1.left" timestamp="1648601125469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="251" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648601125469" />
+    <state width="1297" height="251" key="GridCell.Tab.1.right" timestamp="1648601125469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1297" height="251" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648601125469" />
+    <state x="781" y="176" key="refactoring.ChangeSignatureDialog" timestamp="1648597923655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="176" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648597923655" />
+    <state x="631" y="191" key="scopes" timestamp="1648597901656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="191" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1648597901656" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_Wordle.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_Wordle.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_Wordle.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_Wordle.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="tries_length" />
+        <watch expression="visualFrames" />
+        <watch expression="self.keyboardFrames" />
+        <watch expression="ar" />
+        <watch expression="ch" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
