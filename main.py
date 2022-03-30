@@ -58,9 +58,9 @@ def readMe():
 #Create the GUI
 main = Tk()
 main.iconbitmap(r'C:\Users\chris\PycharmProjects\FlexibleWoodleGui\icon.ico')
+Wordle = Wordle(main)
 
 #Need full map, create calculator right in main and todolist
-Wordle = Wordle(main)
 main.title('Flexible Simple Wordle Gui')
 main.geometry('900x600')
 main.config(bg = '#aaaaaa')

@@ -40,6 +40,8 @@ class Wordle(object):
 		self.wordFrames.clear()
 		self.visualFrames.clear()
 		self.selectionFrames.clear()
+		self.resetGame()
+		del self
 
 
 
